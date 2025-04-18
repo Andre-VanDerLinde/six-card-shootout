@@ -1,6 +1,7 @@
 # Six Card Shootout 🤠
 
 A fast-paced cowboy-themed card duel game built with React and the Deck of Cards API.
+**Deployed Link: ** [Six Card Shootout](https://six-card-shootout.netlify.app/)
 
 ## 🎮 How to Play
 
